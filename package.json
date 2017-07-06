@@ -12,6 +12,7 @@
   "dependencies": {
     "api-gateway-util": "0.0.2",
     "arn2": "0.0.2",
+    "body-parser": "^1.17.2",
     "call-initializer": "0.0.2",
     "express": "^4.15.3",
     "express-mechanic": "0.0.6",
