@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "api-gateway-body-parser": "0.0.2",
-    "api-gateway-util": "0.0.3",
-    "arn2": "0.0.2",
+    "api-gateway-util": "0.0.4",
+    "arn2": "0.0.3",
     "call-initializer": "0.0.2",
     "caseless-get": "0.0.1",
     "chalk": "^2.0.1",
