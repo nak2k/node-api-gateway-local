@@ -1,17 +1,2 @@
 #!/usr/bin/env node
-const yargs = require('yargs');
-
-yargs
-  .option('region', {
-    alias: 'r',
-    describe: 'AWS Region',
-    default: process.env.AWS_REGION,
-  })
-  .option('config', {
-    alias: 'c',
-    describe: 'A path of configuration file',
-    default: process.cwd() + '/.api-gateway-local.json',
-  })
-  .help();
-
-require('..').run(yargs.argv);
+require('../lib/cli');
