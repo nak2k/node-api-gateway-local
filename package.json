@@ -34,7 +34,10 @@
     "aws-sdk": "^2.213.1"
   },
   "homepage": "https://github.com/nak2k/node-api-gateway-local",
-  "keywords": [],
+  "keywords": [
+    "aws",
+    "api-gateway"
+  ],
   "license": "MIT",
   "main": "lib",
   "repository": {
