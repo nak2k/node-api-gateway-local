@@ -21,6 +21,7 @@
     "express-mechanic": "0.0.11",
     "lambda-spawn": "^0.1.0",
     "read-json": "^1.0.3",
+    "run-parallel": "^1.1.8",
     "run-waterfall": "^1.1.4",
     "serve-static": "^1.13.2",
     "split": "^1.0.1",
