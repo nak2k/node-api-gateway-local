@@ -28,7 +28,8 @@
     "type-is": "^1.6.16",
     "update-notifier": "^2.5.0",
     "write-json": "^3.0.1",
-    "yargs": "^11.0.0"
+    "yargs": "^11.0.0",
+    "cfn-read-template": "0.0.2"
   },
   "devDependencies": {
     "aws-sdk": "^2.233.1"
