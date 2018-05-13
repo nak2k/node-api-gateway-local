@@ -11,25 +11,27 @@
   },
   "dependencies": {
     "api-gateway-body-parser": "0.0.2",
-    "api-gateway-util": "0.0.4",
+    "api-gateway-util": "0.0.6",
     "arn2": "0.0.3",
     "aws4": "^1.7.0",
     "call-initializer": "0.0.2",
     "caseless-get": "0.0.3",
+    "cfn-parser": "0.0.1",
+    "cfn-read-template": "0.0.2",
     "chalk": "^2.4.1",
     "express": "^4.16.3",
     "express-mechanic": "0.0.12",
     "lambda-spawn": "^0.1.0",
     "read-json": "^1.0.3",
     "run-parallel": "^1.1.9",
+    "run-series": "^1.1.8",
     "run-waterfall": "^1.1.6",
     "serve-static": "^1.13.2",
     "split": "^1.0.1",
     "type-is": "^1.6.16",
     "update-notifier": "^2.5.0",
     "write-json": "^3.0.1",
-    "yargs": "^11.0.0",
-    "cfn-read-template": "0.0.2"
+    "yargs": "^11.0.0"
   },
   "devDependencies": {
     "aws-sdk": "^2.233.1"
@@ -46,7 +48,8 @@
     "url": "git+https://github.com/nak2k/node-api-gateway-local.git"
   },
   "scripts": {
-    "start-example": "api-gateway-local -r us-west-2 --template-file example/template.yaml"
+    "start-example": "api-gateway-local -r us-west-2 --template-file example/template.yaml",
+    "start-example2": "api-gateway-local -r us-west-2 --template-file example/template2.yaml"
   },
   "files": [
     "README.md",
