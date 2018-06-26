@@ -21,6 +21,7 @@
     "chalk": "^2.4.1",
     "express": "^4.16.3",
     "express-mechanic": "0.0.13",
+    "hashed-tmp": "0.0.2",
     "lambda-spawn": "^0.1.0",
     "read-json": "^1.0.3",
     "run-parallel": "^1.1.9",
