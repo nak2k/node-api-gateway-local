@@ -12,11 +12,11 @@
   "dependencies": {
     "api-gateway-body-parser": "0.0.2",
     "api-gateway-util": "0.0.6",
-    "arn2": "0.0.3",
+    "arn2": "^0.1.1",
     "aws4": "^1.7.0",
     "call-initializer": "0.0.2",
     "caseless-get": "0.0.3",
-    "cfn-parser": "0.0.2",
+    "cfn-parser": "^0.1.0",
     "cfn-read-template": "0.0.2",
     "chalk": "^2.4.1",
     "express": "^4.16.3",
@@ -33,7 +33,7 @@
     "type-is": "^1.6.16",
     "update-notifier": "^2.5.0",
     "write-json": "^3.0.1",
-    "yargs": "^11.0.0"
+    "yargs": "^12.0.1"
   },
   "devDependencies": {
     "aws-sdk": "^2.262.1"
