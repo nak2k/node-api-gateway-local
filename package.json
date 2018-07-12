@@ -50,8 +50,8 @@
     "url": "git+https://github.com/nak2k/node-api-gateway-local.git"
   },
   "scripts": {
-    "start-example": "api-gateway-local -r us-west-2 --template-file example/template.yaml",
-    "start-example2": "api-gateway-local -r us-west-2 --template-file example/template2.yaml"
+    "start-example": "api-gateway-local start -r us-west-2 --template-file example/template.yaml",
+    "start-example2": "api-gateway-local start -r us-west-2 --template-file example/template2.yaml"
   },
   "files": [
     "README.md",
