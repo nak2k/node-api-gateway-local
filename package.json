@@ -50,6 +50,7 @@
     "url": "git+https://github.com/nak2k/node-api-gateway-local.git"
   },
   "scripts": {
+    "postpublish": "npm-sns",
     "start-example": "api-gateway-local start -r us-west-2 --template-file example/template.yaml",
     "start-example2": "api-gateway-local start -r us-west-2 --template-file example/template2.yaml"
   },
