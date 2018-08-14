@@ -13,14 +13,14 @@
     "api-gateway-body-parser": "0.0.2",
     "api-gateway-util": "0.0.6",
     "arn2": "^0.1.1",
-    "aws4": "^1.7.0",
+    "aws4": "^1.8.0",
     "call-initializer": "0.0.2",
     "caseless-get": "0.0.3",
     "cfn-parser": "^0.1.1",
     "cfn-read-template": "0.0.2",
     "chalk": "^2.4.1",
     "express": "^4.16.3",
-    "express-mechanic": "0.0.13",
+    "express-mechanic": "^0.1.0",
     "hashed-tmp": "0.0.2",
     "lambda-spawn": "^0.1.0",
     "opn": "^5.3.0",
@@ -36,7 +36,7 @@
     "yargs": "^12.0.1"
   },
   "devDependencies": {
-    "aws-sdk": "^2.262.1"
+    "aws-sdk": "^2.292.0"
   },
   "homepage": "https://github.com/nak2k/node-api-gateway-local",
   "keywords": [
