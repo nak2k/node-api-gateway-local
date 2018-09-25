@@ -1,6 +1,6 @@
 {
   "name": "api-gateway-local",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "API Gateway simulator for Lambda development",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bin": {
