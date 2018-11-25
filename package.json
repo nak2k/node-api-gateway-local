@@ -16,7 +16,7 @@
     "aws4-with-assume-role": "^0.1.1",
     "call-initializer": "0.0.2",
     "caseless-get": "0.0.3",
-    "cfn-parser": "^0.1.2",
+    "cfn-parser": "^0.1.3",
     "cfn-read-template": "0.0.2",
     "chalk": "^2.4.1",
     "express": "^4.16.3",
