@@ -33,9 +33,9 @@
     "split": "^1.0.1",
     "task-waiter": "^0.1.1",
     "type-is": "^1.6.16",
-    "update-notifier": "^2.5.0",
+    "update-notifier": "^3.0.1",
     "write-json": "^3.0.1",
-    "yargs": "^13.2.0"
+    "yargs": "^14.2.0"
   },
   "devDependencies": {},
   "homepage": "https://github.com/nak2k/node-api-gateway-local",
